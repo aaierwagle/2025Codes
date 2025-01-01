@@ -1,7 +1,7 @@
 const Projects2025 = [
     {
       year: 2025,
-      projects: [
+      projects: [ 
         {
           title: "Nepali Developers Community Website",
           description: "A platform for Nepali developers to interact, share thoughts, and photos.",

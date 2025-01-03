@@ -1,4 +1,4 @@
-// Here add whate i learn in 2025
+// Here add whate i Make in 2025
 const Projects2025 = [
     {
       year: 2025,
